@@ -3,8 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 #Installation of required npm modules
-##IMPORTANT:Run this script first before running project.
-##Open CMD in the project directory and run `npm install`
+
+IMPORTANT:Run this script first before running project.
+
+
+Open CMD in the project directory and run `npm install`
 
 ## Available Scripts
 

@@ -2,9 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Installation of required npm modules
 
  # IMPORTANT
+ 
+**Installation of required npm modules**
 
 Run this script first before running project.
 

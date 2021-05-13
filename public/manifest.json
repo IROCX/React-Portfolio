@@ -1,0 +1,13 @@
+{
+  "short_name": "Sourabh Varshney",
+  "name": "Sourabh Varshney - Portfolio ",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "140x140"
+  }],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
